@@ -41,3 +41,5 @@ Expected Output:
 
 1 3 N
 5 1 E
+
+Write a console application that accepts a single argument that is the file name of the file containing the rover instructions and writes its results to the console.
