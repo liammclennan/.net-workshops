@@ -5,11 +5,11 @@ Create a console application (numberworder.exe) that expects a single numeric pa
 
 E.g.
 
-> numberworder.exe 1234
-ONETWOTHREEFOUR
+> C:\\>numberworder.exe 1234<br>
+> ONETWOTHREEFOUR
 
 Additional considerations
 -------------------------
 
-* what happens if the user does executes the program incorrectly? How can you provide feedback that shows them the correct way?
+* what happens if the user executes the program incorrectly? How can you provide feedback that shows them the correct way?
 * what happens if the input is invalid (e.g. alpha characters)?
